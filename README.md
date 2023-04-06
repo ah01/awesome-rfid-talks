@@ -79,7 +79,7 @@ Shamelessly inspired by [PalSec's awesome-sec-talks](https://github.com/PaulSec/
 * PTS2019 - [Reversing a Firmware uploader & others NFC stories - Aurélien Pocheville](https://passthesalt.ubicast.tv/videos/reversing-a-firmware-uploader-others-nfc-stories/)
 * HITBCyberWeek - [Building A GEN2 UHF RFID Reader With SDR - Adam Laurie](https://www.youtube.com/watch?v=QKi1OH8Zstk)
 * BSides Belfast 2019 - [New Attacks On The MIFARE DESFire EV1 Smartcard Used In Public Transportation - Rory Flynn](https://www.youtube.com/watch?v=ZSrOq40z1i8)
-* Kawaiicon 2019 - [Access Control on Sesame Street - Gallagher/Cardax access control system research - Matthew Daley](https://www.youtube.com/watch?v=brhXqyidiKo)
+* Kawaiicon 2019 - [Access Control on Sesame Street - Gallagher/Cardax access control system research - Matthew Daley](https://www.youtube.com/watch?v=brhXqyidiKo) [[gallagher-research repo](https://github.com/megabug/gallagher-research)]
 
 ## 2020
 
